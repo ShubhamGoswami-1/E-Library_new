@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon app.js"
   },
-  "author": "Shubham G",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.8",
